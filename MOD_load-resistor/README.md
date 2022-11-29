@@ -8,4 +8,4 @@ Without extra parts, only by making two cuts and two new connections you can mod
 [<img src="https://github.com/maxint-rd/electronic-projects/blob/main/MOD_load-resistor/MOD_load_resistor.jpg" width=100%>](https://github.com/maxint-rd/electronic-projects/blob/main/MOD_load-resistor/MOD_load_resistor.jpg)
 
 For more details see [this video on YouTube](https://youtu.be/gGfzUd8bVZ0).
-Go to 1:34 to see what changes are needed).
+Go to 1:34 to see what changes are needed.
