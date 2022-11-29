@@ -1,4 +1,4 @@
-# Modified Lod Resistor #
+# Modified Load Resistor #
 
 To test a USB powerbank you can use a USB load resistor. Connect it to a voltage and current meter to test if the powerbank can deliver the required current at 5V. By timing the duration the current is delivered, you can calculate the capacity. Dummy loads vary greatly in price. The resistor-based mini USB loads have the lowest price. Some time ago I bought two. I modified one of them for testing with lower currents.
 
